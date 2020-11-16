@@ -1,3 +1,9 @@
+Questa App permette di creare e gestire una libreria con inserimento ed eliminazione dei libri.
+Utilizzato:
+- React functional
+- Hooks: useState, useEffect, useContext/createContext
+- LocalStorage
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
